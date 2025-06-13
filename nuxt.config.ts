@@ -1,12 +1,7 @@
 const config = require("./developer.json");
 const siteTitle = `${config.name} | ${config.role}`;
-
-/*
- * Nuxt 3 Config File
- Usage: https://nuxt.com/docs/api/configuration/nuxt-config
- */
 export default defineNuxtConfig({
-  ssr: false, // ✅ Bu SPA qilish uchun
+  ssr: false, 
   target: "static",
   compatibilityDate: "2026-06-14",
   devtools: { enabled: true },
