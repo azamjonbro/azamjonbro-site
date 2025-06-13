@@ -13,7 +13,7 @@ export default defineNuxtConfig({
       title: siteTitle,
       meta: [
         { name: 'description', content: 'Experienced frontend developer specializing in Vue.js, Electron, and modern web technologies.' },
-        { name: 'keywords', content: 'Frontend Developer, Vue.js, Nuxt.js, Electron.js, JavaScript, Portfolio' },
+        { name: 'keywords', content: 'Frontend Developer, Vue.js, Nuxt.js, Electron.js, JavaScript, Portfolio, azamjonbro, Azamjon Abdullayev, Azamjondev, Bro, Dasturlash_lampasi, Engineer, Azamjonaka, Abdullayev Azamjon' },
         { name: 'author', content: 'Azamjon Abdullayev' },
 
         // Open Graph
