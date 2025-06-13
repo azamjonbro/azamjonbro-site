@@ -23,10 +23,6 @@ export default {
 </script>
 
 <style>
-/* ----------------------------------------------
- * GitHub Corners
- * w: https://github.com/tholman/github-corners
- * ---------------------------------------------- */
 
  .github-corner {
   fill: #071511;

@@ -1,7 +1,7 @@
 {
-    "name": "Micheal Weaver",
-    "logo_name": "micheal-weaver",
-    "role": "Front-end developer",
+    "name": "Azamjon Abdullayev",
+    "logo_name": "Azamonbro",
+    "role": "Front-end engineer",
     "about": {
         "sections": {
             "professional-info": {
@@ -10,33 +10,33 @@
                 "info": {
                     "experience": {
                         "title": "experience",
-                        "description": "<br>Over the past 5 years, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "Frontend Developer at Ubay Tools MCHJ (2022–2023): Developed a full-featured e-commerce platform using React.js. Built a Telegram Bot Web App using Node.js. Focused on responsive UI and API integration. Frontend Engineer at Alpha Electronics (2023): Created a custom CRM using Vue.js and a cross-platform Electron app for power monitoring. Mentor at Algoritm Education Center (Present): Teaching Vue and React through hands-on, project-based lessons."
                     },
                     "hard-skills": {
                         "title": "hard-skills",
-                        "description": "<br>As a front-end developer, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>Front-End Development: Vue.js (Options API & Composition API), React.js (Hooks, Router, State Management), HTML5, CSS3, SCSS, JavaScript (ES6+), TypeScript (basic). UI/UX & Design: Custom UI development without UI kits, responsive and mobile-first design, dark/light theme with CSS variables, clean component structure. Desktop App Development: Electron.js apps for Windows, macOS, and Linux; IPC, auto-updater, and security. Web & API Integration: RESTful APIs, Axios, Fetch, form handling and validation. State Management: Vuex, Pinia, Redux Toolkit, LocalStorage, real-time data integration. Dev Tools: Vite, Webpack, Git, GitHub, ESLint, Prettier. Debugging & Testing: Manual testing, browser and Electron debugging. Deployment & Systems: PM2, Nginx, basic Linux server management. Bots & Integrations: Telegram Bot API (node-telegram-bot-api), Telegram Web Apps, anonymous chat with token-based logic."
                     },
                     "soft-skills": {
                         "title": "soft-skills",
-                        "description": "<br>I bring more than Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br><br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>Problem-solving mindset, strong communication, teamwork and collaboration, attention to detail, time management, critical thinking, adaptability, self-motivation, mentoring junior developers, continuous learning attitude."
                     }
                 }
             },
             "personal-info": {
                 "title": "personal-info",
                 "icon": "icons/info-personal.svg",
-                "info": { 
+                "info": {
                     "bio": {
                         "title": "bio",
-                        "description": "<br> About me <br> I have 5 years of experience in web development lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  nulla pariatur. Excepteur sint occaecat  officia deserunt mollit anim id est laborum."
+                        "description": "<br> About me <br> Hi, I’m Azamjon Abdullayev — a passionate front-end developer, mentor, and creative problem solver. I specialize in Vue.js, Electron.js, and React.js, building high-performance web and desktop applications with clean, minimal, and efficient code.  Over the years, I’ve developed custom CRMs, IoT-based monitoring systems, and Telegram bot integrations — all tailored for real-world users and cross-platform compatibility. I focus on speed, security, and user-friendly design, avoiding unnecessary libraries to keep things lightweight and reliable."
                     },
                     "interests": {
                         "title": "interests",
-                        "description": "<br>I am constantly learning and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br> I'm deeply interested in clean UI/UX design, performance optimization, and building apps that solve real problems — not just look good. I enjoy crafting smooth, cross-platform desktop applications with Electron.js, especially when there's a challenge to support everything from Windows 7 to modern macOS.Outside of coding, I'm fascinated by automation, data visualization, and creating internal tools that improve workflows. I also enjoy teaching and mentoring — helping others understand not just how to code, but why things work the way they do. In my free time, I explore JavaScript internals, low-level browser behavior, and new trends in front-end architecture. I believe the best developers are lifelong learners — and I’m always curious to dig deeper."
                     },
                     "education": {
                         "title": "education",
-                        "description": "<br>I have always been passionate about lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+                        "description": "<br>I hold a solid foundation in computer science and front-end development, supported by both academic and hands-on experience. I’ve continuously expanded my knowledge through real-world projects, advanced online courses, and by mentoring others in the field. While formal education gave me the basics, most of my skills were shaped by building actual applications — from custom CRMs and IoT dashboards to cross-platform Electron apps and Telegram bots. I believe in learning by doing, and my strongest education has come from solving real problems with clean code, smart design, and modern frameworks.",
                         "files": {
                             "high-school": "I have been in 'Las viñas'...",
                             "university": "The university..."
@@ -64,25 +64,25 @@
         "direct": {
             "title": "contacts",
             "sources": {
-                "email": "user@gmail.com",
-                "phone": "+3598246359"
+                "email": "azamjonbro@gmail.com",
+                "phone": "+998770057891"
             }
         },
         "social": {
             "github": {
                 "title": "Github profile",
                 "url": "https://github.com/",
-                "user": "username"
+                "user": "azamjonbro"
             },
             "facebook": {
                 "title": "Facebook profile",
                 "url": "https://facebook.com/",
-                "user": "username"
+                "user": "azamjonbro"
             },
             "twitter": {
                 "title": "Twitter account",
                 "url": "https://twitter.com/",
-                "user": "username"
+                "user": "azamjonbro"
             }
         },
         "find_me_also_in": {
@@ -91,22 +91,22 @@
                 "youtube": {
                     "title": "YouTube channel",
                     "url": "https://www.youtube.com/",
-                    "user": "username"
+                    "user": "@azamjonbro"
                 },
                 "gurushots": {
                     "title": "GuruShots profile",
                     "url": "https://gurushots.com/",
-                    "user": "username"
+                    "user": "azamjonbro"
                 },
                 "instagram": {
                     "title": "Instagram account",
                     "url": "https://instagram.com/",
-                    "user": "username"
+                    "user": "azamjonbro"
                 },
                 "twitch": {
                     "title": "Twitch profile",
                     "url": "https://twitch.com/",
-                    "user": "username"
+                    "user": "azamjonbro"
                 }
             }
         }
@@ -114,49 +114,5 @@
     "gists": {
         "1": "83861a67e377633ee8368df01ee3a355",
         "2": "694c1f32332788a2ac7f37b09e5aa40e"
-    },
-    "projects": {
-        "1": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ui-animations2.png",
-            "tech": ["Flutter"],
-            "url": "https://github.com/"
-        },
-        "2": {
-            "title": "_ai-resources",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ai-resources.png",
-            "tech": ["Gatsby"],
-            "url": "https://github.com/"
-        },
-        "3": {
-            "title": "_worldmap",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/worldmap.png",
-            "tech": ["Angular"],
-            "url": "https://github.com/"
-        },
-        "4": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ui-animations.png",
-            "tech": ["React"],
-            "url": "https://github.com/"
-        },
-        "5": {
-            "title": "_tetris-game",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/tetris-game.png",
-            "tech": ["React"],
-            "url": "https://github.com/"
-        },
-        "6": {
-            "title": "_ethereum",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ethereum.png",
-            "tech": ["Vue"],
-            "url": "https://github.com/"
-        }
     }
 }

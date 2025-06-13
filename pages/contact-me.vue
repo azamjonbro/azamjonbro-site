@@ -107,7 +107,27 @@ export default {
                 links.style.display = 'block';
                 arrow.style.transform = 'rotate(90deg)';
             }
+        },
+        async sendMessageToTelegram() {
+        const token = 'YOUR_TELEGRAM_BOT_TOKEN';
+        const chatId = 'YOUR_CHAT_ID';
+        const message = `
+<b>New Contact Form Submission</b>%0A
+👤 Name: ${this.name}%0A
+📧 Email: ${this.email}%0A
+💬 Message: ${this.message}
+        `;
+
+        const url = `https://api.telegram.org/bot${token}/sendMessage?chat_id=${chatId}&text=${message}&parse_mode=HTML`;
+
+        try {
+            await fetch(url);
+            alert('✅ Message sent successfully!');
+        } catch (error) {
+            alert('❌ Failed to send message.');
+            console.error(error);
         }
+    }
     },
     mounted(){
 

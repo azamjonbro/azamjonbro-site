@@ -53,7 +53,6 @@ function toggleMobileMenu(){
   menu.classList.toggle('hidden');
 
   const page = document.getElementsByTagName('main')[0];
-  // Hide / show section
   if (page.style.display === 'none') {
     page.style.display = 'flex';
   } else {

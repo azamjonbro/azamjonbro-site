@@ -22,11 +22,11 @@
       <!-- filter menu -->
       <nav id="filters" class="w-full flex-col">
 
-        <div v-for="tech in techs" :key="tech" class="flex items-center py-2">
+        <!-- <div v-for="tech in techs" :key="tech" class="flex items-center py-2">
           <input type="checkbox" :id="tech" @click="filterProjects(tech)">
           <img :id="'icon-tech-' + tech" :src="'/icons/techs/' + tech + '.svg'" alt="" class="tech-icon w-5 h-5 mx-4">
           <label :for="tech" :id="'title-tech-' + tech">{{ tech }}</label>
-        </div>
+        </div> -->
       </nav>
     </div>
 

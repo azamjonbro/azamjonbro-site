@@ -1,0 +1,58 @@
+[
+  "projects": {
+        "1": {
+            "title": "_ui-animations",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/ui-animations2.png",
+            "tech": [
+                "Flutter"
+            ],
+            "url": "https://github.com/"
+        },
+        "2": {
+            "title": "_ai-resources",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/ai-resources.png",
+            "tech": [
+                "Gatsby"
+            ],
+            "url": "https://github.com/"
+        },
+        "3": {
+            "title": "_worldmap",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/worldmap.png",
+            "tech": [
+                "Angular"
+            ],
+            "url": "https://github.com/"
+        },
+        "4": {
+            "title": "_ui-animations",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/ui-animations.png",
+            "tech": [
+                "React"
+            ],
+            "url": "https://github.com/"
+        },
+        "5": {
+            "title": "_tetris-game",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/tetris-game.png",
+            "tech": [
+                "React"
+            ],
+            "url": "https://github.com/"
+        },
+        "6": {
+            "title": "_ethereum",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/ethereum.png",
+            "tech": [
+                "Vue"
+            ],
+            "url": "https://github.com/"
+        }
+    }
+]

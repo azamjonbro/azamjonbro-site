@@ -1,19 +1,16 @@
 <template>
     <div id="console">
 
-      <!-- bolts -->
       <img id="corner" src="/icons/console/bolt-up-left.svg" alt="" class="absolute top-2 left-2 opacity-70">
       <img id="corner"  src="/icons/console/bolt-up-right.svg" alt="" class="absolute top-2 right-2 opacity-70">
       <img id="corner"  src="/icons/console/bolt-down-left.svg" alt="" class="absolute bottom-2 left-2 opacity-70">
       <img id="corner"  src="/icons/console/bolt-down-right.svg" alt="" class="absolute bottom-2 right-2 opacity-70">
 
 
-      <!-- Game Screen -->
       <div id="game-screen" ref="gameScreen"></div>
 
       <button id="start-button" class="font-fira_retina" @click="startGame">start-game</button>
 
-      <!-- Game Over -->
       <div id="game-over" class="hidden">
         <span class="font-fira_retina text-greenfy bg-bluefy-dark h-12 flex items-center justify-center">GAME OVER!</span>
         <button class="font-fira_retina text-menu-text text-sm flex items-center justify-center w-full py-6 hover:text-white" @click="startAgain">start-again</button>
@@ -55,7 +52,6 @@
           </div>
         </div>
 
-        <!-- score board -->
         <div id="score-board" class="w-full flex flex-col pl-5">
           <p class="font-fira_retina text-white pt-5">// food left</p>
 
@@ -74,7 +70,6 @@
           </div>
         </div>
       </div>
-        <!-- skip -->
         <NuxtLink id="skip-btn" to="/about-me" class="font-fira_retina flex hover:bg-white/20">
           skip
         </NuxtLink>
@@ -256,7 +251,6 @@
             cell.style.flexShrink = 0;
             cell.classList.add("black");
 
-            /* 先渲染蛇身 */
             let snakeCell = this.snake.find(
                 snakeCell => snakeCell.x === j && snakeCell.y === i
             );
@@ -266,7 +260,6 @@
               cell.style.opacity = 1 - (this.snake.indexOf(snakeCell) / this.snake.length);
               cell.classList.add("green");
 
-              /* 蛇頭的特殊樣式 */
               if (this.snake.indexOf(snakeCell) === 0) {
                 let headRadius = "5px";
                 if (this.direction === "up") {
@@ -288,7 +281,6 @@
               }
             }
 
-            /* 最後渲染食物，確保食物始終可見 */
             if (j === this.food.x && i === this.food.y && !snakeCell) {
               cell.style.backgroundColor = "#43D9AD";
               cell.style.borderRadius = "50%";
