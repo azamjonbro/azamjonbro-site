@@ -7,7 +7,9 @@ const siteTitle = `${config.name} | ${config.role}`
  Usage: https://nuxt.com/docs/api/configuration/nuxt-config
  */
 export default defineNuxtConfig({
-  compatibilityDate: '2025-02-28',
+  ssr: false, // ✅ Bu SPA qilish uchun
+  target: 'static',
+  compatibilityDate: '2026-06-14',
   devtools: { enabled: true },
   /**
    * * App Config
